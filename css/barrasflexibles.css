@@ -26,19 +26,28 @@
     padding: 20px;
 }
 
-.contenedor-ninja{
-    width: 500px;
+.contenedor-principal{
     border-style: solid;
-    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.contenedor-ninja{
+    
+    width: 200px;
+    margin-bottom: 40px;
+    
+    
     
     
 }
 .alineado-derecha{
-    margin-top: -60px;
-    margin-left: 200px;
     
     height: 60px;
     width: 300px;
+    
     
     
     
